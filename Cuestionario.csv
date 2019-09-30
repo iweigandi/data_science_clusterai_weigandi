@@ -1,0 +1,104 @@
+id;Variable
+economy;Economy
+economycode;Economy Code
+wpid_random;Gallup World Poll identifier
+wgt;Weight
+female;Respondent is female
+age;Respondent age
+educ;Respondent education level
+inc_q;Within-economy household income quintile
+emp_in;Respondent is in the workforce
+fin2;Has a debit card
+fin3;If has debit card: card in own name
+fin4;If has debit card: used card in past 12 months
+fin5;Used mobile phone or internet to access FI account
+fin6;Used mobile phone or internet to check account balance
+fin7;Has a credit card
+fin8;If has credit card: used card in past 12 months
+fin9;If has account: any deposit into account in past 12 months
+fin10;If has account: any withdrawal from account in past 12 months
+fin11a;If does not have account: b/c too far away
+fin11b;If does not have account: b/c too expensive
+fin11c;If does not have account: b/c lack documentation
+fin11d;If does not have account: b/c lack trust
+fin11e;If does not have account: b/c religious reasons
+fin11f;If does not have account: b/c lack of money
+fin11g;If does not have account: b/c family member already has one
+fin11h;If does not have account: b/c no need for financial services
+fin14a;Made bill payments online using the Internet
+fin14b;Bought something online using the Internet
+fin14c;Paid online or in cash at delivery
+fin15;Saved in past 12 months: for farm/business purposes
+fin16;Saved in past 12 months: for old age
+fin17a;Saved in past 12 months: using an account at a financial institution
+fin17b;Saved in past 12 months: using an informal savings club
+fin19;Has loan from a financial institution for home, apartment, or land
+fin20;Borrowed in past 12 months: for medical purposes
+fin21;Borrowed in past 12 months: for farm/business purposes
+fin22a;Borrowed in past 12 months: from a financial institution
+fin22b;Borrowed in past 12 months: from family or friends
+fin22c;Borrowed in past 12 months: from an informal savings club
+fin24;Possibility of coming up with emergency funds
+fin25;Main source of emergency funds
+fin26;Sent domestic remittances in past 12 months
+fin27a;If sent domestic remittances: through a financial institution
+fin27b;If sent domestic remittances: through a mobile phone
+fin27c1;If sent domestic remittances: in cash
+fin27c2;If sent domestic remittances: through an MTO
+fin28;Received domestic remittances in past 12 months
+fin29a;If received domestic remittances: through a financial institution
+fin29b;If received domestic remittances: through a mobile phone
+fin29c1;If received domestic remittances: in cash
+fin29c2;If received domestic remittances: through an MTO
+fin30;Paid utility bills in past 12 months
+fin31a;If paid utility bills: using an account
+fin31b;If paid utility bills: through a mobile phone
+fin31c;If paid utility bills: in cash
+fin32;Received wage payments in past 12 months
+fin33;If received wage payments: work in public sector
+fin34a;If received wage payments: into an account
+fin34b;If received wage payments: through a mobile phone
+fin34c1;If received wage payments: in cash
+fin34c2;If received wage payments: to a card
+fin35;If received cashless wage payments: first account
+fin36;If received cashless wage payments: opened to receive payments
+fin37;Received government transfers in past 12 months
+fin38;Received government transfers in past 12 months: pension
+fin39a;If received government transfers: into an account
+fin39b;If received government transfers: through a mobile phone
+fin39c1;If received government transfers: in cash
+fin39c2;If received government transfers: to a card
+fin40;If received cashless government transfers: first account
+fin41;If received cashless government transfers: opened to receive payments
+fin42;Received agricultural payments in past 12 months
+fin43a;If received agricultural payments: into an account
+fin43b;If received agricultural payments: through a mobile phone
+fin43c1;If received agricultural payments: in cash
+fin43c2;If received agricultural payments: to a card
+fin44;If received agricultural payments: opened to receive payments
+fin45;If received agricultural payments: opened to receive payments
+fin46;Received self-employment payments: in past 12 months
+fin47a;If received self-employment payments: into an account
+fin47b;If received self-employment payments: through a mobile phone
+fin47c1;If received self-employment payments: in cash
+fin47c2;If received self-employment payments: to a card
+fin47c3;Marginal: Used debit card in your own name
+fin47c4;Marginal: Used mobile phone or internet to access FI account
+fin47c5;Marginal: Used mobile phone or internet to check account balance
+mobileowner;Owns a mobile phone
+fin48;Has a national ID
+account_fin;Has an account at a financial institution
+account_mob;Has a mobile money account
+account;Has an account
+saved;Saved in the past year
+borrowed;Borrowed in the past year
+receive_wages;Payments: wage payments
+receive_transfers;Payments: government transfers
+receive_pension;Payments: government pension
+receive_agriculture;Payments: selling agricultural goods
+pay_utilities;Payments: utility bills
+remittances;Domestic remittances
+pay_onlne;Pay online [of adults]- F2F
+pay_onlne_mobintbuy;Pay online [of buyers]- F2F
+pay_cash;Pay in cash when order is delivered [of adults]- F2F
+pay_cash_mobintbuy;Pay in cash when order is delivered [of buyers]- F2F
